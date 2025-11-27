@@ -9,7 +9,7 @@ for(int i=0;i<data.length;i++){
     if(data [i]%2==0){
         sum=sum+data[i];
 }}
-System.out.println("sum  of even number is:"+sum);
+System.out.println("sum  of evenl number is:"+sum);
     }
 
 
